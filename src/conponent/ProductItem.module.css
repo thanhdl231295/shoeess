@@ -1,0 +1,18 @@
+.item{
+    width: 100%;
+    
+}
+.item img{
+    width: 100%;
+}
+.item button{
+    padding: 10px 20px;
+    background-color:  blue;
+    color: aqua;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.item h2{
+    font-weight: 400;
+}
